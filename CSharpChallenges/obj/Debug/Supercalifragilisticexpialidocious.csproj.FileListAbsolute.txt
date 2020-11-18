@@ -1,0 +1,14 @@
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\CSharpChallenges.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\CSharpChallenges.pdb
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\obj\Debug\Supercalifragilisticexpialidocious.csprojAssemblyReference.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\obj\Debug\Supercalifragilisticexpialidocious.csproj.CoreCompileInputs.cache
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\obj\Debug\Supercalifragilisticexpialidocious.csproj.CopyComplete
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\obj\Debug\CSharpChallenges.dll
+Z:\ElevenFiftyProjects\CSharpChallenges\CSharpChallenges\obj\Debug\CSharpChallenges.pdb
